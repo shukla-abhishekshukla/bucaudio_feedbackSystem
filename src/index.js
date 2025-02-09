@@ -10,3 +10,5 @@ root.render(
     <App />
   </React.StrictMode>
 );
+
+// This is for the testing.
